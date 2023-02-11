@@ -75,7 +75,7 @@ def menu_apikey():
                   ¦¦ ¦¦         ¦¦
              ¦¦¦¦¦¦¦ ¦¦         ¦¦
     +---------------------------------------+
-    ¦ [?] AUTHOR   : AKIL                   ¦
+    ¦ [?] AUTHOR   : AKiL                   ¦
     ¦ [?] GITHUB   : muhammadaqiltariq28    ¦
     ¦ [?] WHATSAPP : +923246940538          ¦
     ¦ [?] VERSION  : 0.0                    ¦
